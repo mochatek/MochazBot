@@ -17,7 +17,7 @@ See the bot in action: [MochazBot](https://telegram.me/mochaz_bot)
 
 Download and Install [Python](https://www.python.org/downloads/)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/reference/pip_download/) to install the depedancies.
+Use the package manager [pip](https://pip.pypa.io/en/stable/reference/pip_download/) to install the dependencies.
 
 ```bash
 pip install -r requirements.txt
