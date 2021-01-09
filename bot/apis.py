@@ -139,11 +139,6 @@ def ques_API(ques):
     else:
         try:
             query = ques.replace(' ', '+')
-            #params = {
-                #'access_key' : '39831b76d7e9036321e88567517613be',
-                #'url' : "https://google.com/search?q=" + query
-            #}
-            #res = requests.get('http://api.scrapestack.com/scrape', params)
 
             url = "https://google.com/search?q=" + query
             res = requests.get(url, headers={'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'})
