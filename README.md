@@ -1,6 +1,6 @@
 # MochazBot
 
-Telegram Bot built using the Telepot API and Django Webhook.
+Telegram Bot built using the [Telepot API](https://telepot.readthedocs.io/en/latest/) and Django Webhook.
 
 See the bot in action: [MochazBot](https://telegram.me/mochaz_bot)
 
